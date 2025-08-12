@@ -3,7 +3,7 @@
 ## 🎯 **Challenge Overview**
 
 **Company**: Thoughtful Automation  
-**Position**: Software Engineer  
+**Position**: Forward Deployed Engineer  
 **Challenge**: Robotic Factory Package Sorting Algorithm  
 **Time Limit**: 30 minutes  
 **Language**: Python (Required)  
